@@ -20,7 +20,104 @@
 
 </div>
 
+---<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:06B6D4&text=VIPIN%20PAWAR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Artificial+Intelligence;Data+Science;Machine+Learning;Python+%7C+Programming;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing Animation">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-06B6D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/SDSF-DAVV-0F172A?style=for-the-badge">
+
+</div>
+
 ---
+
+# 👋 Hi, I'm Vipin Pawar
+
+### AI & Data Science Student at SDSF, DAVV
+
+I'm passionate about **Artificial Intelligence, Data Science, Machine Learning and Programming**.
+
+Currently, I'm focused on building strong technical foundations, exploring new technologies and learning by creating practical projects.
+
+---
+
+## 🧠 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+🎓 **Education**
+
+AI & Data Science  
+SDSF, DAVV
+
+<br>
+
+💻 **Focus**
+
+Programming  
+Problem Solving
+
+</td>
+
+<td width="50%">
+
+🤖 **Interests**
+
+Artificial Intelligence  
+Machine Learning
+
+<br>
+
+📊 **Exploring**
+
+Data Science  
+Data Analytics
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Developer Mindset
+
+<div align="center">
+
+<h3>LEARN → BUILD → EXPERIMENT → IMPROVE</h3>
+
+<p>Every project is an opportunity to learn something new.</p>
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" alt="Programming">
+
+<br><br>
+
+### AI & Data Science
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow" alt="AI and Data Science">
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter
 
 <!-- ===================== ABOUT ME ===================== -->
 
